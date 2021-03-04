@@ -32,7 +32,13 @@ export default function Home() {
             <p>Here Are Some Of My Projects While Learning Python</p>
             <p className = {styles.date}>July-August 2020</p>
           </a>
-
+          
+          <a href="https://repl.it/@A1exRosales123/Merge-Sort#main.py" className={styles.card}>
+            <h3>Merge Sort &rarr;</h3>
+            <p>Merge Sort function equivalent of sorted </p>
+            <p className = {styles.date}>February-March  2021</p>
+          </a>
+        
 
          
         </div>
